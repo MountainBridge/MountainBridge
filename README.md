@@ -1,7 +1,7 @@
 ### Hi, I'm Nidhi 👋
 
-Full Stack Engineer (AI) · 11+ years building financial software in banking tech.
-TypeScript · React · Node.js · Java · LLM evaluation, agents & MCP · developer experience.
+Senior Full Stack Engineer · AI evaluation & reliability · 11+ years building financial software in banking tech.
+TypeScript · React · Node.js · Java · LLM evaluation, agents & MCP.
 
 **What I work on**
 - Regression systems that explain *why* a test failed, not just *that* it failed
