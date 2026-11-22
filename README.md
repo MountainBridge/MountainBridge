@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Nidhi 👋
 
-<!--
-**MountainBridge/MountainBridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer (AI) · 11+ years building financial software in banking tech.
+TypeScript · React · Node.js · Java · LLM evaluation, agents & MCP · developer experience.
 
-Here are some ideas to get you started:
+**What I work on**
+- Regression systems that explain *why* a test failed, not just *that* it failed
+- Evaluating AI output field by field, weighted by business impact
+- Making complex systems easy for other engineers to understand and build on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Start here**
+- 📘 [Engineering Casebook](https://github.com/MountainBridge/MountainBridges): real platform problems, trade-offs and patterns
+- 🧩 [Pattern to Production](https://github.com/MountainBridge/pattern-to-production): DSA patterns mapped to real production problems, updated weekly
+
+**Elsewhere**
+[LinkedIn](https://www.linkedin.com/in/nidhiverma200) · [Instagram @stok.eed](https://www.instagram.com/stok.eed)
