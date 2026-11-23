@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+<defs><clipPath id="r"><rect width="900" height="420" rx="16"/></clipPath><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#C2502A" stroke-width="1.6"/></marker>
+<pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11" cy="11" r="1" fill="#30363D"/></pattern></defs>
+<g clip-path="url(#r)"><rect width="900" height="420" fill="#F4EEE3"/>
+<text x="40" y="70" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#C2502A">THE STORY · LIGHT MODE</text>
+<text x="38" y="128" font-family="Lora, Georgia, 'Times New Roman', serif" font-size="44" font-weight="500" fill="#1D1B18">Start with</text>
+<text x="38" y="180" font-family="Lora, Georgia, 'Times New Roman', serif" font-size="44" font-weight="500" fill="#1D1B18">the person.</text>
+<text x="38" y="232" font-family="Lora, Georgia, 'Times New Roman', serif" font-size="44" font-style="italic" fill="#C2502A">Ship with</text>
+<text x="38" y="284" font-family="Lora, Georgia, 'Times New Roman', serif" font-size="44" font-style="italic" fill="#C2502A">evidence.</text>
+<text x="40" y="330" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#1D1B18">Nidhi Verma · Senior Full Stack Engineer</text>
+<text x="40" y="352" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#6F675D">mountainbridge.github.io</text>
+<g transform="translate(420,60)"><rect width="440" height="300" rx="14" fill="#FBF7F0" stroke="#DDD3C3"/>
+<g transform="translate(0,0)"><svg x="10" y="60" width="420" height="200" viewBox="8 82 514 220">
+<path d="M30,170 C90,170 90,110 150,110 C210,110 210,190 270,190 C330,190 330,100 390,100 C450,100 450,150 490,150" fill="none" stroke="#1D1B18" stroke-width="1.5" stroke-dasharray="5 6"/>
+<circle cx="30" cy="170" r="13" fill="#C2502A" stroke="#1D1B18" stroke-width="1.6"/><text x="30" y="208" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1D1B18">person</text>
+<circle cx="150" cy="110" r="9" fill="#FBF7F0" stroke="#1D1B18" stroke-width="1.6"/><text x="150" y="146" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1D1B18">journey</text>
+<circle cx="270" cy="190" r="9" fill="#FBF7F0" stroke="#1D1B18" stroke-width="1.6"/><text x="270" y="226" text-anchor="middle" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1D1B18">constraints</text>
+<path d="M240,276 C222,262 236,240 256,234" fill="none" stroke="#C2502A" stroke-width="1.4" marker-end="url(#ah)"/>
+<text x="250" y="292" text-anchor="middle" font-family="Lora, Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#C2502A">where the real problem usually hides</text></svg></g>
+<g><rect x="240" y="0" width="200" height="300" fill="#0D1117"/><rect x="240" y="0" width="200" height="300" fill="url(#d)"/>
+<text x="258" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#F0A24E">THE SYSTEM ☾</text>
+<text x="292" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#E9E4D8"><tspan fill="#F0A24E">$</tspan> trace</text>
+<text x="292" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8B949E"><tspan fill="#7EE787">✓</tspan> idempotency key</text>
+<text x="292" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8B949E"><tspan fill="#7EE787">✓</tspan> state machine</text>
+<text x="292" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8B949E"><tspan fill="#7EE787">✓</tspan> contract tests</text></g>
+<rect x="239" y="0" width="2" height="300" fill="#F0A24E"/>
+<g transform="translate(202,131)"><rect width="76" height="38" rx="19" fill="#F4EEE3" stroke="#1D1B18" stroke-width="2"/><path d="M38,1 h19 a18,18 0 0 1 0,36 h-19 z" fill="#161B22"/>
+<text x="19" y="25" text-anchor="middle" font-size="16" fill="#C2502A">☀</text><circle cx="57" cy="19" r="12" fill="#F0A24E"/><text x="57" y="24" text-anchor="middle" font-size="13" fill="#0D1117">☾</text></g>
+<text x="220" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6F675D">← drag the switch →</text></g>
+<g transform="translate(830,18)"><rect width="52" height="26" rx="13" fill="#F4EEE3" stroke="#1D1B18" stroke-width="1.5"/><circle cx="13" cy="13" r="9" fill="#C2502A"/></g></g></svg>
