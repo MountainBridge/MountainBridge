@@ -26,7 +26,7 @@ I'm a Senior Full Stack Engineer with 11+ years building financial software in b
 | 🧭 Story first | 🧪 Evidence always | 🤝 Built to be understood |
 |---|---|---|
 | Map the user journey and hand-offs before writing code | Regression that explains *why* a test failed, not just *that* it failed | Docs, patterns and examples other engineers can pick up and run |
-| Workflow and state-machine design for regulated flows | Field-by-field AI output evaluation, weighted by business impact | Talks, write-ups and short reels that make complex systems simple |
+| Workflow and state-machine design for regulated flows | Field-by-field AI output evaluation, weighted by business impact | Internal talks, write-ups and short reels that make complex systems simple |
 
 **Stack:** TypeScript · React · Node.js · Java · Spring · REST · micro-frontends · LLM evaluation · agents · MCP
 
@@ -57,7 +57,11 @@ person  →  journey  →  constraints  →  architecture  →  evidence
 
 ### ◐ Engineering Stories
 
-I explain real systems in plain language on Instagram as **[@stok.eed](https://www.instagram.com/stok.eed)**. Each reel takes one idea (idempotency, retries, state machines, evaluating AI output) and shows it with an everyday story. Longer write-ups land in the [Casebook](https://github.com/MountainBridge/MountainBridges).
+On **[@stok.eed](https://www.instagram.com/stok.eed)** (also on [YouTube](https://www.youtube.com/channel/UCOReIEXcwwk1FQuiul3kKug)) I explain how AI and production software really work, the way I'd answer in a senior interview:
+
+- **AI agents from zero:** model, tool, loop, MCP, skills ([a loop is the difference](https://www.instagram.com/stok.eed/reel/DeoNS_GzWXA/) · [who really opens your files](https://www.instagram.com/stok.eed/reel/DehUVBqz27t/))
+- **AI system design for real problems:** [stopping voice-clone scam calls](https://www.instagram.com/stok.eed/reel/DfM-IRbzoz1/)
+- **Demo vs production:** [what breaks at 2 a.m.](https://www.instagram.com/stok.eed/reel/DekNB_0Tndd/)
 
 ---
 
