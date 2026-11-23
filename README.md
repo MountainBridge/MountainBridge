@@ -4,6 +4,10 @@
 </picture>
 
 <p align="center">
+  <a href="https://mountainbridge.github.io"><b>🌐 Visit my portfolio site → mountainbridge.github.io</b></a>
+</p>
+
+<p align="center">
   <a href="#-what-i-do">What I do</a> ·
   <a href="#-start-here">Start here</a> ·
   <a href="#-how-i-work">How I work</a> ·
@@ -61,4 +65,4 @@ I explain real systems in plain language on Instagram as **[@stok.eed](https://w
 
 Open to Senior / Staff Full Stack, Developer Experience and AI-reliability roles.
 
-[LinkedIn](https://www.linkedin.com/in/nidhiverma200) · [Instagram @stok.eed](https://www.instagram.com/stok.eed) · [Casebook](https://github.com/MountainBridge/MountainBridges)
+[Portfolio](https://mountainbridge.github.io) · [LinkedIn](https://www.linkedin.com/in/nidhiverma200) · [Instagram @stok.eed](https://www.instagram.com/stok.eed) · [Casebook](https://github.com/MountainBridge/MountainBridges)
