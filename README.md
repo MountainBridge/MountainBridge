@@ -58,7 +58,7 @@ person  →  journey  →  constraints  →  architecture  →  evidence
 
 ### ◐ Engineering Stories
 
-On **[@stok.eed](https://www.instagram.com/stok.eed)** (also on [YouTube](https://www.youtube.com/channel/UCOReIEXcwwk1FQuiul3kKug)) I explain how AI and production software really work, the way I'd answer in a senior interview:
+On **[@stok.eed](https://www.instagram.com/stok.eed)** I explain how AI and production software really work, the way I'd answer in a senior interview:
 
 - **AI agents from zero:** model, tool, loop, MCP, skills, with [the code for every episode](https://github.com/MountainBridge/agent-from-zero) ([a loop is the difference](https://www.instagram.com/stok.eed/reel/DeoNS_GzWXA/) · [who really opens your files](https://www.instagram.com/stok.eed/reel/DehUVBqz27t/))
 - **AI system design for real problems:** [stopping voice-clone scam calls](https://www.instagram.com/stok.eed/reel/DfM-IRbzoz1/)
