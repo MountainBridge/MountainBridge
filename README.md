@@ -36,6 +36,7 @@ I'm a Senior Full Stack Engineer with 11+ years building financial software in b
 
 | | Project | What you'll find |
 |---|---|---|
+| 🤖 | [**Agent from Zero**](https://github.com/MountainBridge/agent-from-zero) | Build an AI agent in six runnable parts (model, tool, loop, MCP, skills, SDK). The code behind my @stok.eed series, 18 tests, CI green |
 | 📘 | [**Engineering Casebook**](https://github.com/MountainBridge/MountainBridges) | Real platform problems, the trade-offs behind them, and reusable patterns |
 | 🧩 | [**Pattern to Production**](https://github.com/MountainBridge/MountainBridges/tree/main/pattern-to-production) | Small, focused examples that take one engineering pattern to working code |
 | 🧱 | [**Basic-MFE**](https://github.com/MountainBridge/Basic-MFE) | A minimal micro-frontend setup: host + remotes, explained step by step |
@@ -59,7 +60,7 @@ person  →  journey  →  constraints  →  architecture  →  evidence
 
 On **[@stok.eed](https://www.instagram.com/stok.eed)** (also on [YouTube](https://www.youtube.com/channel/UCOReIEXcwwk1FQuiul3kKug)) I explain how AI and production software really work, the way I'd answer in a senior interview:
 
-- **AI agents from zero:** model, tool, loop, MCP, skills ([a loop is the difference](https://www.instagram.com/stok.eed/reel/DeoNS_GzWXA/) · [who really opens your files](https://www.instagram.com/stok.eed/reel/DehUVBqz27t/))
+- **AI agents from zero:** model, tool, loop, MCP, skills, with [the code for every episode](https://github.com/MountainBridge/agent-from-zero) ([a loop is the difference](https://www.instagram.com/stok.eed/reel/DeoNS_GzWXA/) · [who really opens your files](https://www.instagram.com/stok.eed/reel/DehUVBqz27t/))
 - **AI system design for real problems:** [stopping voice-clone scam calls](https://www.instagram.com/stok.eed/reel/DfM-IRbzoz1/)
 - **Demo vs production:** [what breaks at 2 a.m.](https://www.instagram.com/stok.eed/reel/DekNB_0Tndd/)
 
