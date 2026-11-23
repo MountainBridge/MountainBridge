@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#-what-i-do">What I do</a> ·
-  <a href="#-start-here">Start here</a> ·
+  <a href="#-featured-work">Featured work</a> ·
   <a href="#-how-i-work">How I work</a> ·
   <a href="#-engineering-stories">Engineering Stories</a> ·
   <a href="#-say-hello">Say hello</a>
@@ -32,17 +32,24 @@ I'm a Senior Full Stack Engineer with 11+ years building financial software in b
 
 ---
 
-### ◐ Start here
+### ◐ Featured work
 
-| | Project | What you'll find |
-|---|---|---|
-| 🤖 | [**Agent from Zero**](https://github.com/MountainBridge/agent-from-zero) | Build an AI agent in six runnable parts (model, tool, loop, MCP, skills, SDK). The code behind my @stok.eed series, 18 tests, CI green |
-| 📘 | [**Engineering Casebook**](https://github.com/MountainBridge/MountainBridges) | Real platform problems, the trade-offs behind them, and reusable patterns |
-| 🧩 | [**Pattern to Production**](https://github.com/MountainBridge/MountainBridges/tree/main/pattern-to-production) | Small, focused examples that take one engineering pattern to working code |
-| 🧱 | [**Basic-MFE**](https://github.com/MountainBridge/Basic-MFE) | A minimal micro-frontend setup: host + remotes, explained step by step |
-| 🧮 | [**DSA**](https://github.com/MountainBridge/DSA) | Problem-solving practice with notes on approach and complexity |
+#### 1 · [Agent from Zero](https://github.com/MountainBridge/agent-from-zero)
+Build an AI agent in six runnable parts: model → tool → loop → MCP → skills → SDK. The code behind my @stok.eed series. **18 tests, CI green, runs with no API key.** [▶ Run it in your browser](https://stackblitz.com/github/MountainBridge/agent-from-zero?startScript=demo)
 
-**In progress:** `regression-investigator`, a small open-source tool that groups failing tests and suggests the likely cause. Watch this space.
+<a href="https://github.com/MountainBridge/agent-from-zero"><img src="https://raw.githubusercontent.com/MountainBridge/agent-from-zero/main/assets/demo.svg" alt="Agent from Zero demo output: the agent loop fixes a failing test, and the SDK layer blocks a dangerous command" width="100%"></a>
+
+#### 2 · [Portfolio site](https://mountainbridge.github.io)
+Hand-built, no framework. Drag the sun/moon switch to slide between the story (light) and the system behind it (dark). Keyboard, touch and reduced-motion friendly.
+
+<a href="https://mountainbridge.github.io"><img src="./assets/site-preview.svg" alt="Portfolio site hero with a draggable story/system slider" width="100%"></a>
+
+#### 3 · [Engineering Casebook](https://github.com/MountainBridge/MountainBridges)
+Real platform problems and the trade-offs behind them: payments consistency, AI output that looks right but is wrong, regression as a knowledge problem.
+
+<a href="https://github.com/MountainBridge/MountainBridges"><img src="./assets/casebook-preview.svg" alt="Engineering Casebook contents" width="100%"></a>
+
+**Also:** [Basic-MFE](https://github.com/MountainBridge/Basic-MFE) (micro-frontends with Module Federation) · [DSA](https://github.com/MountainBridge/DSA) (problem-solving notes)
 
 ---
 
